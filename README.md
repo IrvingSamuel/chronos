@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="docs/images/logo-new.png" alt="Chronos" width="180" />
+<img src="docs/images/logo-white.png" alt="Chronos" width="180" />
 
 # Chronos
 
