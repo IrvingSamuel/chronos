@@ -43,43 +43,43 @@ Ficar alternando entre abas pra saber "o que vence agora?" mata a produtividade.
 
 ## Funcionalidades
 
-### 🔄 Sincronização Multi-Plataforma
+### Sincronização Multi-Plataforma
 - **Sync automático** a cada 3 minutos via jobs em background (Laravel Horizon + Redis)
 - **7 integrações**: Google Calendar, Trello, Bitrix24, Canvas LMS, Notion, GitHub, Discord
 - Smart **upsert** — cria novas tarefas, atualiza existentes, marca removidas como concluídas
 - **Logs de sincronização** completos com rastreamento de sucesso/falha por plataforma
 
-### 📊 3 Visualizações no Dashboard
+### 3 Visualizações no Dashboard
 - **Feed** — Lista cronológica agrupada por tempo (hoje, amanhã, esta semana, depois)
 - **Kanban Board** — Drag-and-drop por colunas: Pendente → Em Progresso → Concluído → Atrasado
 - **Avisos** — Feed dedicado para anúncios do Canvas LMS
 
-### 🤖 Chat com IA (Google Gemini)
+### Chat com IA (Google Gemini)
 - **Chat interativo** com Google Gemini integrado ao contexto das suas tarefas
 - Anexe tarefas ao chat para análise e priorização inteligente
 - Histórico de sessões persistente
 - **Limite diário** no plano Free (5 msgs/dia), ilimitado no Pro
 - Resumo semanal automático com insights de produtividade
 
-### 🔔 Notificações Push Inteligentes (PWA)
+### Notificações Push Inteligentes (PWA)
 - Instalável no celular — **sem app store**
 - **Tarefas urgentes** (≤6h) recebem alertas individuais via Firebase Cloud Messaging
 - **Tarefas próximas** (6–48h) são agrupadas em digest
 - Smart dedup: cada tarefa é notificada apenas uma vez
 
-### 💳 Planos e Pagamentos
+### Planos e Pagamentos
 - **Plano Free**: 5 mensagens IA/dia, sync manual
 - **Plano Pro** (R$ 9,90/mês): IA ilimitada, sync automático, resumo semanal
 - Integração com **PagarMe API v5** para assinaturas recorrentes
 - Webhooks com filtragem por plataforma (metadata) — mesma conta PagarMe compartilhada entre múltiplos serviços
 - Painel admin para conceder/revogar plano Pro manualmente
 
-### 🛡️ Painel Administrativo
+### Painel Administrativo
 - Gerenciamento de usuários e planos
 - Toggle Pro/Free com confirmação visual (SweetAlert2)
 - Visão geral do sistema e logs
 
-### 🎨 UI Dark com Glass-Morphism
+### UI Dark com Glass-Morphism
 - **Dark theme** moderno com efeitos glass-morphism
 - Design responsivo — funciona em mobile e desktop
 - Alertas bonitos com **SweetAlert2** (tema glassmorphism customizado)
