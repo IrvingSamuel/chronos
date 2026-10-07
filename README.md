@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="docs/images/logo-new.png" alt="Meus Prazos" width="180" />
+<img src="docs/images/logo-new.png" alt="Chronos" width="180" />
 
-# Meus Prazos
+# Chronos
 
 ### Gestão unificada de prazos e tarefas de todas as suas plataformas
 
@@ -13,9 +13,9 @@
 [![PWA](https://img.shields.io/badge/PWA-Ready-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white)](#pwa--push-notifications)
 [![PagarMe](https://img.shields.io/badge/PagarMe-API%20v5-00C853?style=for-the-badge&logo=stripe&logoColor=white)](#planos-e-pagamentos)
 
-**Pare de alternar entre plataformas.** O Meus Prazos sincroniza suas tarefas do Google Calendar, Trello, Bitrix24, Canvas LMS, Notion e GitHub em um único dashboard dark com IA integrada e notificações push inteligentes.
+**Pare de alternar entre plataformas.** O Chronos sincroniza suas tarefas do Google Calendar, Trello, Bitrix24, Canvas LMS, Notion e GitHub em um único dashboard dark com IA integrada e notificações push inteligentes.
 
-🔗 **[meusprazos.rezumme.ai](https://meusprazos.rezumme.ai)**
+🔗 **[chronos.com.pt](https://chronos.com.pt)**
 
 > ⚠️ Este repositório contém apenas a documentação e apresentação do projeto. O código-fonte é mantido em repositório privado.
 
@@ -37,7 +37,7 @@ Quem trabalha, estuda e faz freela ao mesmo tempo tem prazos espalhados em **7 p
 | <img src="docs/images/interations/github.png" width="20" /> | **GitHub** | Issues e pull requests |
 | <img src="docs/images/interations/discord.png" width="20" /> | **Discord** | Notificações de canal |
 
-Ficar alternando entre abas pra saber "o que vence agora?" mata a produtividade. O **Meus Prazos** resolve isso trazendo tudo para um só lugar — automaticamente.
+Ficar alternando entre abas pra saber "o que vence agora?" mata a produtividade. O **Chronos** resolve isso trazendo tudo para um só lugar — automaticamente.
 
 ---
 
